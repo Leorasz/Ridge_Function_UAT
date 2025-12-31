@@ -1,5 +1,3 @@
-import Mathlib.Algebra.MvPolynomial.Basic
-import Mathlib.Algebra.Algebra.NonUnitalSubalgebra
 import Mathlib.Topology.ContinuousMap.StoneWeierstrass
 import Mathlib.Analysis.InnerProductSpace.PiL2
 import Mathlib.RingTheory.MvPolynomial.Homogeneous
